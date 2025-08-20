@@ -112,6 +112,7 @@ Author
 
 Sarthak R Shetty
 📌 MSc Big Data Analytics | St. Aloysius (Deemed to be University), Mangaluru
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinid)
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+🔗 [LinkedIn Profile]www.linkedin.com/in/sarthak-r-shetty22
+📧 Email: sarthakrshetty36@gmail.com
+
 
